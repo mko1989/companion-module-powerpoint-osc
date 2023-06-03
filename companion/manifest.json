@@ -5,8 +5,8 @@
 	"description": "This module controls powerpointosc.",
 	"version": "0.2.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-imimot-mitti.git",
-	"bugs": "https://github.com/bitfocus/companion-module-imimot-mitti/issues",
+	"repository": "git+https://github.com/mko1989/companion-module-powerpoint-osc",
+	"bugs": "https://github.com/mko1989/companion-module-powerpoint-osc/issues",
 	"maintainers": [
 		{
 			"name": "Marcin Wardecki",
