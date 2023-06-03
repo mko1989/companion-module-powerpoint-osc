@@ -1,0 +1,27 @@
+{
+	"id": "powerpointosc",
+	"name": "powerpoint-osc",
+	"shortname": "powerpointosc",
+	"description": "This module controls powerpointosc.",
+	"version": "0.2.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/bitfocus/companion-module-imimot-mitti.git",
+	"bugs": "https://github.com/bitfocus/companion-module-imimot-mitti/issues",
+	"maintainers": [
+		{
+			"name": "Marcin Wardecki",
+			"email": "m.wardecki89@gmail.com"
+		}
+		
+	],
+	"legacyIds": ["powerpoint-osc"],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../index.js"
+	},
+	"manufacturer": "Benjamin Kuperberg",
+	"products": ["powerpoint-osc"],
+	"keywords": ["Software"]
+}

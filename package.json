@@ -1,0 +1,25 @@
+{
+	"name": "powerpoint-osc",
+	"legacy": [
+		"oscppt"
+	],
+	"version": "0.2.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"format": "prettier -w ."
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-imimot-mitti.git"
+	},
+	"dependencies": {
+		"@companion-module/base": "~1.4.1",
+		"osc": "^2.4.4"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^1.2.1"
+	},
+	"prettier": "@companion-module/tools/.prettierrc.json"
+}
