@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-imimot-mitti.git"
+		"url": "git+https://github.com/mko1989/companion-module-powerpoint-osc"
 	},
 	"dependencies": {
 		"@companion-module/base": "~1.4.1",
